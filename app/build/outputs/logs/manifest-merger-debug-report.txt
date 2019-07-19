@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/megazord/.gradle/caches/transforms-2/files-2.1/46faff7a5c5d8b4d4c453aad69eb4e1d/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/7b1acde3b9b1b898901b2b57f6b81959/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji:emoji-appcompat:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/73508567b72c0d233e341bcf1066676b/emoji-appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/2460b1fe98166f03d2ad6cbba44c409d/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/2fa31dfaf163729b5f375f784ca38360/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/8722085d56343fda5c7f38c0bcfc409f/recyclerview-selection-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e78e6dc6fe98949a396e34c36fd7af49/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/229083ab3b6454458c0a8cf1b3fc5fc6/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/ffd29fd1d9ee90ec797ece64427e9db2/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/762a0ea65542f67a24ffd2dfc6c9de33/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/90f12caf2dec8c6d71d087477f174621/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji:emoji-bundled:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/df688210e6062cc9e3399e96f7114e3b/emoji-bundled-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/56250c83798e2f98d017e81adffd927c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/306b9fe2ee5e8ea7c1a525e48413b87f/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/0847cedfa4257827ce2870a6ab71dede/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/f817662b13e00b8f64a947efeaeb8d3c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/383e148317b6aaf633cbe4986e521033/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5afe5fd4fcc3257cec73fdc12591401d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e42e6a54f92ad3b54fcd6fbec7d60dd3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji:emoji:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3e6b94ed0da9d34e063943cb2707d263/emoji-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5f9e20088b5efb6987d37ef7aa536cfd/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/72f4d0f2038331677214349dc3da0b00/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e49d1cdb86494252d545d9023d283fbf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3f14f96b9431278563a0aaa3d1e94871/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/b1e7553a1a6e33b2c6e6f4bf97d5719c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5398f9b0bddcc139be1d1983dbff9f05/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/51f4c93a8c9d719ffc603a54f43a65a1/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/a2efaca92af11bb4292ce30bf64d66fb/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/f6fac60bef619a83035a723460a822d6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/43a1492c600c7b1d38fce9fcd9ca4d35/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/a0bce7e21ff45a9d4d0114ae91e993fe/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/4f7f0dac7907cfc26e5573406d1d6a0f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/262ec721a99bdf75bb81aa87be79e200/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/d474cf807fd7cc7e86afa42221c01f71/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/megazord/.gradle/caches/transforms-2/files-2.1/46faff7a5c5d8b4d4c453aad69eb4e1d/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/megazord/.gradle/caches/transforms-2/files-2.1/46faff7a5c5d8b4d4c453aad69eb4e1d/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/7b1acde3b9b1b898901b2b57f6b81959/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/7b1acde3b9b1b898901b2b57f6b81959/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3f14f96b9431278563a0aaa3d1e94871/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3f14f96b9431278563a0aaa3d1e94871/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:7:9-38
+activity#br.com.pedroimai.birds.MainActivity
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:15:19-47
+activity#br.com.pedroimai.birds.ResponsiveActivity
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:16:19-53
+activity#br.com.pedroimai.birds.AnimatedActivity
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:17:19-51
+activity#br.com.pedroimai.birds.FormActivity
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:18:9-20:67
+	android:windowSoftInputMode
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:19:13-41
+activity#br.com.pedroimai.birds.StarterActivity
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:21:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:25:27-74
+activity#br.com.pedroimai.birds.GuidelineActivity
+ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:28:9-64
+	android:name
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:28:19-52
+uses-sdk
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/megazord/.gradle/caches/transforms-2/files-2.1/46faff7a5c5d8b4d4c453aad69eb4e1d/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/megazord/.gradle/caches/transforms-2/files-2.1/46faff7a5c5d8b4d4c453aad69eb4e1d/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/7b1acde3b9b1b898901b2b57f6b81959/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/7b1acde3b9b1b898901b2b57f6b81959/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji:emoji-appcompat:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/73508567b72c0d233e341bcf1066676b/emoji-appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji:emoji-appcompat:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/73508567b72c0d233e341bcf1066676b/emoji-appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/2460b1fe98166f03d2ad6cbba44c409d/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/2460b1fe98166f03d2ad6cbba44c409d/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/2fa31dfaf163729b5f375f784ca38360/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/2fa31dfaf163729b5f375f784ca38360/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/8722085d56343fda5c7f38c0bcfc409f/recyclerview-selection-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/8722085d56343fda5c7f38c0bcfc409f/recyclerview-selection-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e78e6dc6fe98949a396e34c36fd7af49/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e78e6dc6fe98949a396e34c36fd7af49/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/229083ab3b6454458c0a8cf1b3fc5fc6/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/229083ab3b6454458c0a8cf1b3fc5fc6/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/ffd29fd1d9ee90ec797ece64427e9db2/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/ffd29fd1d9ee90ec797ece64427e9db2/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/762a0ea65542f67a24ffd2dfc6c9de33/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/762a0ea65542f67a24ffd2dfc6c9de33/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/90f12caf2dec8c6d71d087477f174621/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/90f12caf2dec8c6d71d087477f174621/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji:emoji-bundled:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/df688210e6062cc9e3399e96f7114e3b/emoji-bundled-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji:emoji-bundled:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/df688210e6062cc9e3399e96f7114e3b/emoji-bundled-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/56250c83798e2f98d017e81adffd927c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/56250c83798e2f98d017e81adffd927c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/306b9fe2ee5e8ea7c1a525e48413b87f/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/306b9fe2ee5e8ea7c1a525e48413b87f/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/0847cedfa4257827ce2870a6ab71dede/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/0847cedfa4257827ce2870a6ab71dede/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/f817662b13e00b8f64a947efeaeb8d3c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/f817662b13e00b8f64a947efeaeb8d3c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/383e148317b6aaf633cbe4986e521033/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/383e148317b6aaf633cbe4986e521033/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5afe5fd4fcc3257cec73fdc12591401d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5afe5fd4fcc3257cec73fdc12591401d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e42e6a54f92ad3b54fcd6fbec7d60dd3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e42e6a54f92ad3b54fcd6fbec7d60dd3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji:emoji:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3e6b94ed0da9d34e063943cb2707d263/emoji-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji:emoji:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3e6b94ed0da9d34e063943cb2707d263/emoji-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5f9e20088b5efb6987d37ef7aa536cfd/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5f9e20088b5efb6987d37ef7aa536cfd/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/72f4d0f2038331677214349dc3da0b00/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/72f4d0f2038331677214349dc3da0b00/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e49d1cdb86494252d545d9023d283fbf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/e49d1cdb86494252d545d9023d283fbf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3f14f96b9431278563a0aaa3d1e94871/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/3f14f96b9431278563a0aaa3d1e94871/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/b1e7553a1a6e33b2c6e6f4bf97d5719c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/b1e7553a1a6e33b2c6e6f4bf97d5719c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5398f9b0bddcc139be1d1983dbff9f05/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/5398f9b0bddcc139be1d1983dbff9f05/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/51f4c93a8c9d719ffc603a54f43a65a1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/51f4c93a8c9d719ffc603a54f43a65a1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/a2efaca92af11bb4292ce30bf64d66fb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/a2efaca92af11bb4292ce30bf64d66fb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/f6fac60bef619a83035a723460a822d6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/f6fac60bef619a83035a723460a822d6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/43a1492c600c7b1d38fce9fcd9ca4d35/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/43a1492c600c7b1d38fce9fcd9ca4d35/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/a0bce7e21ff45a9d4d0114ae91e993fe/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/a0bce7e21ff45a9d4d0114ae91e993fe/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/4f7f0dac7907cfc26e5573406d1d6a0f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/4f7f0dac7907cfc26e5573406d1d6a0f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/262ec721a99bdf75bb81aa87be79e200/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/262ec721a99bdf75bb81aa87be79e200/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/d474cf807fd7cc7e86afa42221c01f71/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/d474cf807fd7cc7e86afa42221c01f71/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		ADDED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+		INJECTED from /home/megazord/projetos/birds/app/src/main/AndroidManifest.xml

@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.pedroimai.birds"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:6:5-29:19
+12        android:name="br.com.pedroimai.birds.MyApplication"
+12-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:7:9-38
+13        android:allowBackup="true"
+13-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:8:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.0.0] /home/megazord/.gradle/caches/transforms-2/files-2.1/022650ac8172a4fae5afc743ea3474ae/core-1.0.0/AndroidManifest.xml:22:18-86
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:9:9-43
+17        android:label="@string/app_name"
+17-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:10:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:11:9-54
+19        android:supportsRtl="true"
+19-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:12:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:13:9-40
+22        <activity android:name="br.com.pedroimai.birds.MainActivity" />
+22-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:15:9-50
+22-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:15:19-47
+23        <activity android:name="br.com.pedroimai.birds.ResponsiveActivity" />
+23-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:16:9-56
+23-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:16:19-53
+24        <activity android:name="br.com.pedroimai.birds.AnimatedActivity" />
+24-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:17:9-54
+24-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:17:19-51
+25        <activity
+25-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:18:9-20:67
+26            android:name="br.com.pedroimai.birds.FormActivity"
+26-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:19:13-41
+27            android:windowSoftInputMode="adjustResize" />
+27-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:20:13-55
+28        <activity android:name="br.com.pedroimai.birds.StarterActivity" >
+28-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:21:9-27:20
+28-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:21:19-50
+29            <intent-filter>
+29-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:22:13-26:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:23:17-69
+30-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:25:17-77
+32-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:25:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="br.com.pedroimai.birds.GuidelineActivity" />
+35-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:28:9-64
+35-->/home/megazord/projetos/birds/app/src/main/AndroidManifest.xml:28:19-52
+36    </application>
+37
+38</manifest>
